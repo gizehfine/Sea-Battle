@@ -12,9 +12,7 @@
 }
 
 .grid-ships {
-    display: flex;
     outline: 4px solid black;
-    justify-content: center;
 }
 
 #ship-1 {
