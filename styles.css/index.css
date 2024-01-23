@@ -22,64 +22,47 @@
 
 #ship-2 {
     background-color: chartreuse;
-    /* grid-column: 4;
-    grid-row-end: span 3; */
     grid-area: 1 / 4 / 4;
 }
 
 
 #ship-3 {
     background-color: blue;
-    /* grid-column: 7/11; */
     grid-area: 1 / 7 / 1 / 11;
 }
 
 #ship-4 {
     background-color: blue;
-    /* grid-column: 1;
-    grid-row: 3/7; */
     grid-area: 3 / 1 / 7;
 }
 
 #ship-5 {
     background-color: chartreuse;
-    /* grid-column: 6/9;
-    grid-row-start: 3; */
     grid-area: 3 / 6 / 3 / 9;
 
 }
 
 #ship-6 {
     background-color: blueviolet;
-    /* grid-column: 10;
-    grid-row: 3/5; */
     grid-area: 3 / 10 / 5;
 }
 
 #ship-7 {
     background-color: blueviolet;
-    /* grid-column: span 2;
-    grid-row: 8; */
     grid-area: 8 / 1 / 8 / span 2;
 }
 
 #ship-8 {
     background-color: blueviolet;
-    /* grid-column: 6;
-    grid-row: 6/8; */
     grid-area: 6 / 6 / 8 ;
 }
 
 #ship-9 {
     background-color: chartreuse;
-    /* grid-column: 10;
-    grid-row: 6/9; */
     grid-area: 6 / 10 / 9;
 }
 
 #ship-10 {
     background-color: brown;
-    /* grid-column: 5/11;
-    grid-row: 10; */
     grid-area: 11 / 5 / 10 / span 6;
 }
