@@ -79,7 +79,7 @@
 
 #ship-10 {
     background-color: brown;
-    /* grid-column: 6/11;
+    /* grid-column: 5/11;
     grid-row: 10; */
-    grid-area: 11 / 6 / 10 / span 5;
+    grid-area: 11 / 5 / 10 / span 6;
 }
