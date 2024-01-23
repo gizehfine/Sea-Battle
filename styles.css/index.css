@@ -65,8 +65,9 @@
 
 #ship-8 {
     background-color: blueviolet;
-    grid-column: 6;
-    grid-row: 6/8;
+    /* grid-column: 6;
+    grid-row: 6/8; */
+    grid-area: 6 / 6 / 8 ;
 }
 
 #ship-9 {
